@@ -2,7 +2,7 @@
   "short_name": "Steinzi",
   "name": "Steinzi Personal Website",
   "lang": "en-US",
-  "description": "This is my personal website, where I post my projects and other stuff",
+  "description": "The public work of Steinn Örvar Bjarnarson: AI automation, business processes, open source, community, workshops, and the Network Automagic podcast.",
   "scope": "/",
   "icons": [
     {
@@ -37,7 +37,7 @@
     }
   ],
   "display": "standalone",
-  "start_url": ".",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "start_url": "/",
+  "theme_color": "#111111",
+  "background_color": "#f5f1e8"
 }

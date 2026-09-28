@@ -1,20 +1,23 @@
-### Hi there 👋
+# steinzi.com
 
-Hey Future Steinzi, you used NMP to handle the deployment etc.
-- love Past Steinzi
+Personal website for Steinn Örvar Bjarnarson. It presents the full career arc from electronics and production infrastructure to AI automation, business-process improvement, open source, community building, teaching, workshops, writing, and podcasting.
 
-<!--
-**steinzi/steinzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Local development
 
-Basics
-
-Make your changes.
-
+```sh
 npm install
-npm install --only=dev
-npm run build
-npm run deploy
+npm start
+```
 
-Remember to check the cert status.
-Done
--->
+Run the checks before publishing:
+
+```sh
+CI=true npm test -- --watchAll=false
+npm run build
+```
+
+The site's structured editorial content lives in `src/data/publicWork.js`. The sources, scope, public-work inventory, and editorial decisions behind the career-wide review are recorded in `PUBLIC_WORK_AUDIT.md`.
+
+## Publishing
+
+`npm run deploy` publishes the production build to GitHub Pages. `public/CNAME` preserves the `steinzi.com` custom domain in the generated build.
