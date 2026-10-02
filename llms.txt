@@ -1,0 +1,31 @@
+# Steinn Örvar Bjarnarson (Steinzi)
+
+> Steinn Örvar Bjarnarson — Steinzi for short — is a Lead Product Development Engineer at Advania in Reykjavík, Iceland. He builds AI automation that survives contact with legacy systems, security requirements, real teams, and the business: agents, MCP tools, APIs, and workflows with human approval built in and credentials kept out of model context. Behind that sit fifteen-plus years in infrastructure and network operations (CCIE #60715), a BSc in computer science earned at night, teaching, and product development. steinzi.com is his personal site: the pitch, selected public work, a sourced public record of talks, workshops, podcasts, articles, and releases, and a booking section for speaking.
+
+## Work
+
+- [Network Automagic](https://networkautomagic.net): Long-form podcast (video and audio) he co-hosts on AI, automation, infrastructure, and what survives outside a demo environment. Eleven episodes since February 2025.
+- [ISNOG](https://isnog.is): The Icelandic Network Operators Group, which he founded in 2025; the first meeting drew roughly 100 people.
+- [Network Automation Landscape](https://steinzi.com/network-automation-landscape/): Community-maintained open-source map of the tools, products, and projects that make up modern network automation.
+- [netlab-mcp](https://github.com/steinzi/netlab-mcp): Apache-2.0 MCP server that turns network intent into rendered, lab-validated multi-vendor configurations with netlab and containerlab.
+
+## Speaking
+
+- ["It Works on My Machine" — (Py)Test Your Automation, AutoCon 5, Munich, June 2026](https://networkautomation.forum/autocon5): Workshop on testing automation logic, mocking devices and APIs, and CI/CD.
+- [Network Testing with NUTS, AutoCon 4, Austin, November 2025](https://networkautomation.forum/autocon4): Sold-out hands-on workshop on NUTS, pytest, custom test cases, and reporting.
+- [Network Testing with NUTS, AutoCon 3, Prague, May 2025](https://networkautomation.forum/autocon3): Sold-out four-hour workshop on NUTS and the INPG stack.
+- ["I Downloaded NetBox, Now What?", AutoCon 2, November 2024](https://youtu.be/xgS6D8KVzdQ): Lightning talk on what to do after adopting a network source of truth.
+- ["MVP — The Keys to Automation", AutoCon 1, May 2024](https://youtu.be/XRgNm2uhntQ): Replacing a legacy IPAM with NetBox — the architecture, the wrong turns, and why starting beats waiting.
+- [Network Automation Big Picture, NetDevOps Days London, June 2023](https://www.youtube.com/watch?v=jou6hYDddig): Automation for an organization operating as MSP, data center, and ISP.
+- [Practical generative AI, Morgunblaðið Kompaní breakfast, September 2023](https://www.mbl.is/vidskipti/frettir/2023/09/08/gervigreindartaeknin_er_i_stodugri_motun/): Early public talk on what generative AI can and cannot do for a business.
+
+## Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/steinn-%C3%B6rvar-a3436613b/)
+- [GitHub](https://github.com/steinzi)
+- [YouTube — Network Automagic](https://www.youtube.com/@networkautomagic)
+- [CV](https://docs.google.com/document/d/e/2PACX-1vTXTHtrLosl2crQKu_O9DDMxuTyJ7sL4l3g37R781JXPgxZzAh_idvZW4FBAFrRoO2PByJJl9q46F7E/pub)
+
+## Contact
+
+- [Book a talk, workshop, panel, or podcast](https://steinzi.com/#book): Topics include AI beyond the demo, agents and MCP, legacy systems meeting modern automation, business processes, and getting teams to actually use the tooling.
